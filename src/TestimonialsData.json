@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Johnny B. Goode",
+      "designation": "CEO, Getting Things Done",
+      "testimonial": "Advice and support from DigiSpan was second to none. Always willing to help and offer advice and solutions. A very good and rapid understanding of our requirements was key to this.",
+      "image": "testimonial_face01.png"
+    },
+    {
+      "id": 2,
+      "name": "Mary Jane",
+      "designation": "CEO, Design Matters",
+      "testimonial": "We needed a creative and unique brand which could compete against established products. Digital Spaniel delivered in spades and we’ve seen a huge response to the product launch.",
+      "image": "testimonial_face02.png"
+    },
+    {
+      "id": 3,
+      "name": "Paul Simon",
+      "designation": "Founder, MegaCorp",
+      "testimonial": "Working with Digital Spaniel has been a breath of fresh air. Their approach and attitude kept me informed and included from the start. Super pleased with the end results too!",
+      "image": "testimonial_face03.png"
+    }
+  ]
+  
